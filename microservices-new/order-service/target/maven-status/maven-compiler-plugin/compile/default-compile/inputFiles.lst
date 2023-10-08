@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\eclipse-ws\microservices-new\order-service\src\main\java\com\nhanpq\orderservice\dto\OrderLineItemsDto.java
+C:\Users\Admin\Desktop\eclipse-ws\microservices-new\order-service\src\main\java\com\nhanpq\orderservice\dto\InventoryResponse.java
+C:\Users\Admin\Desktop\eclipse-ws\microservices-new\order-service\src\main\java\com\nhanpq\orderservice\event\OrderPlacedEvent.java
+C:\Users\Admin\Desktop\eclipse-ws\microservices-new\order-service\src\main\java\com\nhanpq\orderservice\dto\OrderRequest.java
+C:\Users\Admin\Desktop\eclipse-ws\microservices-new\order-service\src\main\java\com\nhanpq\orderservice\controller\OrderController.java
+C:\Users\Admin\Desktop\eclipse-ws\microservices-new\order-service\src\main\java\com\nhanpq\orderservice\entity\Order.java
+C:\Users\Admin\Desktop\eclipse-ws\microservices-new\order-service\src\main\java\com\nhanpq\orderservice\service\OrderService.java
+C:\Users\Admin\Desktop\eclipse-ws\microservices-new\order-service\src\main\java\com\nhanpq\orderservice\config\WebClientConfig.java
+C:\Users\Admin\Desktop\eclipse-ws\microservices-new\order-service\src\main\java\com\nhanpq\orderservice\OrderServiceApplication.java
+C:\Users\Admin\Desktop\eclipse-ws\microservices-new\order-service\src\main\java\com\nhanpq\orderservice\entity\OrderLineItems.java
+C:\Users\Admin\Desktop\eclipse-ws\microservices-new\order-service\src\main\java\com\nhanpq\orderservice\repository\OrderRepository.java
