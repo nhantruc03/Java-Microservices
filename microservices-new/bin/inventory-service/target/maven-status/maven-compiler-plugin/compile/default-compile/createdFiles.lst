@@ -1,8 +1,0 @@
-com\nhanpq\inventoryservice\controller\InventoryController.class
-com\nhanpq\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
-com\nhanpq\inventoryservice\entity\Inventory$InventoryBuilder.class
-com\nhanpq\inventoryservice\entity\Inventory.class
-com\nhanpq\inventoryservice\dto\InventoryResponse.class
-com\nhanpq\inventoryservice\repository\InventoryRepository.class
-com\nhanpq\inventoryservice\InventoryServiceApplication.class
-com\nhanpq\inventoryservice\service\InventoryService.class
