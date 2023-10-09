@@ -1,1 +1,2 @@
 com\nhanpq\notficationservice\NotficationServiceApplication.class
+com\nhanpq\notficationservice\event\OrderPlacedEvent.class

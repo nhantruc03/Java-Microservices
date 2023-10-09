@@ -51,7 +51,7 @@ public class OrderService {
         return inventoryServiceObservation.observe(() -> {
 
             InventoryResponse[] inventoryResponses = webClientBuilder.build().get()
-                    .uri("http://inventory-service:8082/api/inventory",
+                    .uri("http://inventory-service/api/inventory",
                             t -> t.queryParam("skuCode", listSkuCode).build())
                     .retrieve()
                     .bodyToMono(InventoryResponse[].class)

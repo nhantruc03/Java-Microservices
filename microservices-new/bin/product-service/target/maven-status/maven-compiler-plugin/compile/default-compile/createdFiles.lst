@@ -1,0 +1,10 @@
+com\nhanpq\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\nhanpq\productservice\dto\ProductResponse.class
+com\nhanpq\productservice\service\ProductService.class
+com\nhanpq\productservice\repository\ProductRepository.class
+com\nhanpq\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\nhanpq\productservice\entity\Product.class
+com\nhanpq\productservice\entity\Product$ProductBuilder.class
+com\nhanpq\productservice\ProductServiceApplication.class
+com\nhanpq\productservice\controller\ProductController.class
+com\nhanpq\productservice\dto\ProductRequest.class
